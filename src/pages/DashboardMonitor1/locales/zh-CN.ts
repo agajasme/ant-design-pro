@@ -1,0 +1,18 @@
+export default {
+  'dashboardmonitor1.monitor.trading-activity': '活动实时交易情况',
+  'dashboardmonitor1.monitor.total-transactions': '今日交易总额',
+  'dashboardmonitor1.monitor.sales-target': '销售目标完成率',
+  'dashboardmonitor1.monitor.remaining-time': '活动剩余时间',
+  'dashboardmonitor1.monitor.total-transactions-per-second': '每秒交易总额',
+  'dashboardmonitor1.monitor.activity-forecast': '活动情况预测',
+  'dashboardmonitor1.monitor.efficiency': '券核效率',
+  'dashboardmonitor1.monitor.ratio': '跳出率',
+  'dashboardmonitor1.monitor.proportion-per-category': '各品类占比',
+  'dashboardmonitor1.monitor.fast-food': '中式快餐',
+  'dashboardmonitor1.monitor.western-food': '西餐',
+  'dashboardmonitor1.monitor.hot-pot': '火锅',
+  'dashboardmonitor1.monitor.waiting-for-implementation': 'Waiting for implementation',
+  'dashboardmonitor1.monitor.popular-searches': '热门搜索',
+  'dashboardmonitor1.monitor.resource-surplus': '资源剩余',
+  'dashboardmonitor1.monitor.fund-surplus': '补贴资金剩余',
+};

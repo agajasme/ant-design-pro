@@ -49,4 +49,6 @@ export default {
   'menu.editor.flow': '流程编辑器',
   'menu.editor.mind': '脑图编辑器',
   'menu.editor.koni': '拓扑编辑器',
+  'menu.空白页面': '空白页面',
+  'menu.监控页': '监控页',
 };
